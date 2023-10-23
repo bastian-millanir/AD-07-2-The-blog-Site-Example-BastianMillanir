@@ -2,3 +2,16 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background: url(/img/ninbg.jpg)center fixed;
+  background-size: cover;
+}
+
+nav{
+  font-family:'Press Start 2P', cursive;
+}
+
+#navbarNav {
+  font-size: 20px;
+}
